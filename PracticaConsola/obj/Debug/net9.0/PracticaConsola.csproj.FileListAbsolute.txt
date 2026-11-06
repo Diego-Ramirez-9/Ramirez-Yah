@@ -1,0 +1,15 @@
+C:\Users\diego\source\repos\PracticaConsola\PracticaConsola\obj\Debug\net9.0\PracticaConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\PracticaConsola\PracticaConsola\obj\Debug\net9.0\PracticaConsola.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\PracticaConsola\PracticaConsola\obj\Debug\net9.0\PracticaConsola.AssemblyInfo.cs
+C:\Users\diego\source\repos\PracticaConsola\PracticaConsola\obj\Debug\net9.0\PracticaConsola.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\PracticaConsola\PracticaConsola\obj\Debug\net9.0\PracticaConsola.sourcelink.json
+C:\Users\diego\source\repos\PracticaConsola\PracticaConsola\bin\Debug\net9.0\PracticaConsola.exe
+C:\Users\diego\source\repos\PracticaConsola\PracticaConsola\bin\Debug\net9.0\PracticaConsola.deps.json
+C:\Users\diego\source\repos\PracticaConsola\PracticaConsola\bin\Debug\net9.0\PracticaConsola.runtimeconfig.json
+C:\Users\diego\source\repos\PracticaConsola\PracticaConsola\bin\Debug\net9.0\PracticaConsola.dll
+C:\Users\diego\source\repos\PracticaConsola\PracticaConsola\bin\Debug\net9.0\PracticaConsola.pdb
+C:\Users\diego\source\repos\PracticaConsola\PracticaConsola\obj\Debug\net9.0\PracticaConsola.dll
+C:\Users\diego\source\repos\PracticaConsola\PracticaConsola\obj\Debug\net9.0\refint\PracticaConsola.dll
+C:\Users\diego\source\repos\PracticaConsola\PracticaConsola\obj\Debug\net9.0\PracticaConsola.pdb
+C:\Users\diego\source\repos\PracticaConsola\PracticaConsola\obj\Debug\net9.0\PracticaConsola.genruntimeconfig.cache
+C:\Users\diego\source\repos\PracticaConsola\PracticaConsola\obj\Debug\net9.0\ref\PracticaConsola.dll

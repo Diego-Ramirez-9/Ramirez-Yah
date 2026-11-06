@@ -1,0 +1,32 @@
+## Visual Studio ##
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Archivos de Usuario y Configuración Local ##
+*.userprefs
+*.pidb
+*.suo
+*.user
+*.userprefs
+.vshistory/
+
+## Rider / Resharper (Por si usas otros IDEs) ##
+.idea/
+*.sln.iml
+
+## Publicación y Compilación ##
+[Pp]ublish/
+*.azure_data
+*.pubxml
+*.pubxml.user
+
+## Archivos del Sistema Operativo ##
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
