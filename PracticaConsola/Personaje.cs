@@ -5,13 +5,16 @@
         public string Nombre { get; set; }
         public int Vida { get; set; }
         public int Ataque { get; set; }
+        public int Defensa { get; set; }
+        public int Nivel { get; set; }
 
-
-        public Personaje(string nombre, int vida, int ataque)
+        public Personaje(string nombre, int vida, int ataque, int defensa, int nivel)
         {
             Nombre = nombre;
             Vida = vida;
             Ataque = ataque;
+            Defensa = defensa;
+            Nivel = nivel; 
 
         }
 
